@@ -1,6 +1,6 @@
 {
   "name": "cra-template-smartfactor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Base CRA template of SmartFactor company",
   "repository": {
     "type": "git",
@@ -14,5 +14,9 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/pzdralewicz/cra-template-smartfactor/issues"
-  }
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
 }
